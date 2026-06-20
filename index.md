@@ -11,10 +11,3 @@
 - [Clonifier](https://dlesl.github.io/clonifier/), an as yet unfinished app that
   does ~~all~~ some of the above and more, in an aesthetically pleasing
   environment.
-
-### Other things
-
-- [Spotify History Logger](https://spothist.dlesl.com/) – record your
-  playback history securely and analyse it using SQL queries.
-- [Wannabe](https://dlesl.com/wannabe/), an attempt at a multiplayer online card
-  game that just happens to be quite similar to Hanabi.
